@@ -3,7 +3,7 @@
 [![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/dain.py/")](https://www.instagram.com/dain.py/)
 [![](http://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005450081761")](https://www.facebook.com/profile.php?id=100005450081761)
 [![](http://img.shields.io/badge/-E--mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:talown@naver.com)](mailto:talown@naver.com)
-[![](http://img.shields.io/badge/-github.io-181717?style=flat-square&logo=GitHub&logoColor=white&link=mailto:talown@naver.com)](mailto:talown@naver.com)
+[![](http://img.shields.io/badge/-github.io-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://da-in.github.io)](https://da-in.github.io)
 
 [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
 
