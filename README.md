@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![[](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/dain.py/")](https://www.instagram.com/dain.py/)
-![](http://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005450081761)
+<a href="https://www.instagram.com/dain.py/" target="_blank">
+  <img src="http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/dain.py/"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100005450081761" target="_blank">
+  <img src="http://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005450081761"/>
+</a>
 
 
 [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
