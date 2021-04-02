@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##### instagram @dain.py
+<img src="http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dain.py/"/>
+
+[![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **da-in/da-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
