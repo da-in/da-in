@@ -9,6 +9,7 @@ Please contact me in the following way.
 [![](http://img.shields.io/badge/-github.io-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://da-in.github.io)](https://da-in.github.io)
 
 [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talown)](https://solved.ac/talown)
 
 <!--
 **da-in/da-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
