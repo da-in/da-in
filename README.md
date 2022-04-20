@@ -11,8 +11,6 @@ My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  
-  <br/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -22,6 +20,7 @@ My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil
 </div>
 
 <br/>
+
 <br/>
 
 Please contact me in the following way.
