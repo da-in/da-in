@@ -3,7 +3,7 @@ My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil
     
 ### Stacks
 
-<div> 
+<div>  
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> 
