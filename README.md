@@ -33,8 +33,6 @@ Please contact me in the following way.
 [![](http://img.shields.io/badge/-github.io-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://da-in.github.io)](https://da-in.github.io)
 [![](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dain809@gmail.com)](mailto:dain809@gmail.com)
 
-[![commitcombo](http://commitcombo.com/theme?user=da-in&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
-
 [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talown)](https://solved.ac/talown)
