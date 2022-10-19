@@ -2,7 +2,7 @@
 My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil University** in Seoul, South Korea.</br>  
 
 ### Portfolio
-React Base Portfolio (제작중🙂)  
+React Base Portfolio
 🔗 [https://da-in.github.io/portfolio/](https://da-in.github.io/portfolio/)  
 
 with <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">  
