@@ -8,7 +8,6 @@ React를 사용하여 제작한 Portfolio
 ### Stacks🔥
 <div>  
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
