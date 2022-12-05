@@ -13,9 +13,9 @@ Please contact me in the following way.
 [![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/dain.py/")](https://www.instagram.com/dain.py/)
 [![](http://img.shields.io/badge/-E--mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:talown@naver.com)](mailto:talown@naver.com)
 
-[![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talown)](https://solved.ac/talown)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talown)](https://solved.ac/talown) -->
 
 <!--
 **da-in/da-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
