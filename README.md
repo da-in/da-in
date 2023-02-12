@@ -4,7 +4,6 @@ My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil
 
 📂 Blog | [https://da-in.github.io](https://da-in.github.io)  
 🌈 Resume | [https://da-in.github.io/resume](https://da-in.github.io/resume)  
-@likelion Soongsil 9th 대표 10th 운영진
 
 ### Study
 📖 CS Tech Interview | [https://github.com/da-in/tech-interview-study](https://github.com/da-in/tech-interview-study)  
