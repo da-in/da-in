@@ -1,16 +1,22 @@
 ### Hi there 👋
-My name is **da-in**, major in **computer science**💻 since 2017 at **Soongsil University** in Seoul, South Korea.  
-**Front-end developer**, write code with **react & typescript**.
+My name is **da-in**, **Front-end developer**.  
+major in **computer science**💻 since 2017 at **Soongsil University** in Seoul, South Korea.
 
-📂 Blog | [https://da-in.github.io](https://da-in.github.io)  
-🌈 Resume | [https://da-in.github.io/resume](https://da-in.github.io/resume)  
+
+### Link
+🌈 [Resume](https://da-in.github.io/resume)  
+📂 [Notion](https://daiin.notion.site/Archive-8961c17789104fe1acc7d368dfc6e7d0?pvs=4)  
+📎 [Blog](https://da-in.github.io)  
 
 ### Study
-📖 CS Tech Interview | https://github.com/da-in/tech-interview-study  
-📖 React Docs 번역 스터디 | https://github.com/roy-jung/react.dev.ko  
-📖 JS Deep Dive | https://github.com/likelion-ssu/JS-Deep-Dive  
-📖 Algorithm | https://github.com/da-in/algorithm-study  
-📖 TDD Study | https://github.com/da-in/tdd-challenge  
+✏️ [TDD Study](https://github.com/da-in/tdd-challenge)  
+✏️ [CS Tech Interview](https://github.com/da-in/tech-interview-study)  
+✏️ [React Docs 번역 스터디](https://github.com/roy-jung/react.dev.ko)  
+✏️ [Algorithm](https://github.com/da-in/algorithm-study)  
+
+### Read
+📖 [Test Driven Develop:By Example(Kent Beck)](https://github.com/da-in/tdd-by-example-ts)  
+📖 [JS Deep Dive](https://github.com/likelion-ssu/JS-Deep-Dive)  
 
 ### Contact
 Please contact me in the following way.
