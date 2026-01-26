@@ -2,6 +2,17 @@
 My name is **da-in**, **Front-end developer**.  
 major in **computer science**💻 since 2017 at **Soongsil University** in Seoul, South Korea.
 
+### ✨👀 Now I’m most Interested!
+> 요즘 제가 가장 몰입하고 있는 활동입니다.  
+
+@vibe-ai-coding-club
+
+<img src="https://avatars.githubusercontent.com/u/232191593?s=96&v=4"/>
+
+**🤖 Vibe Coding Club (Founder)**
+  - AI 에이전틱 워크플로우를 통해 개발 생산성을 극한으로 끌어올리는 방법을 연구하고 나누는 커뮤니티를 운영하고 있습니다.
+  - 단순한 코드 작성을 넘어, AI를 실무의 강력한 파트너로 활용해 성장을 가속화하는 최신 트렌드와 스터디를 지향합니다.
+
 
 ### Link
 🌈 [Resume](https://da-in.github.io/resume)  
