@@ -19,10 +19,10 @@
 <br/>
 
 ### 🛠️ 요즘 개발 중인 것
-* **simple-thumbnail** `refactoring…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
-* **avocado-bot** `운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
-* **club-house** `개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
-* **didit(가제)** `개발 준비 중`
+* **simple-thumbnail** `⚠️ refactoring…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
+* **avocado-bot** `🔥 운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
+* **club-house** `👩🏻‍💻 개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
+* **didit(가제)** `🎨 개발 준비 중`
 
 <br/>
 
