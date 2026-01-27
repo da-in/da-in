@@ -1,27 +1,30 @@
-# ## Hello, I'm da-in 👋
+## Hello, I'm da-in 👋
 
-### 🚀 복잡한 기술을 사용자 중심의 직관적인 경험으로 전환하는 프론트엔드 개발자입니다.
+### 🚀 사용자 경험(UX)에 몰입하고, 개발 효율에 진심인 프론트엔드 개발자입니다.
 
-* **사용자 중심의 임팩트 정의**: 구글 스프린트 및 해커톤 경험을 바탕으로 사용자 중심의 임팩트를 정의하고, 이를 가장 직관적인 MVP로 빠르게 시각화합니다.
-* **비즈니스 가속화를 위한 기술**: Vite 전환 및 Node 마이그레이션을 통해 빌드 및 렌더링 성능을 **80% 이상 개선**하고 비즈니스 속도를 높였습니다.
-* **시스템을 통한 품질 관리**: AI 에이전틱 파이프라인과 TDD를 도입하여 코드의 무결성과 품질을 시스템적으로 관리하는 환경을 지향합니다.
+복잡한 기술보다는 사용자의 눈에 보이는 직관적인 가치를 구현하는 순간을 즐깁니다. 반복되는 비효율을 참지 못해 AI 에이전틱 워크플로우나 성능 최적화를 통해 팀의 생산성을 높이는 일에 적극적이며, '어떻게 하면 더 즐겁고 빠르게 제품을 만들 수 있을지'를 늘 고민합니다.
 
----
+<br/>
 
-### 🧠 요즘 가장 관심 있는 것: Vibe Coding Club
-- **Founder** (2025.09 ~ 현재)
-- **AI 에이전틱 워크플로우**와 LLM 활용을 통해 개발 생산성을 극한으로 끌어올리는 커뮤니티를 운영 중입니다.
-- 단순한 코드 작성을 넘어, AI를 실무의 강력한 파트너로 활용해 성장을 가속화하는 최신 트렌드를 연구합니다.
+### 🌊 요즘 가장 몰입 중인 [@Vibe Coding Club](https://github.com/vibe-ai-coding-club)
+> 
 
----
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/232191593?s=200&v=4" width="100" align="left" style="margin-right: 16px;" />
+  <b>AI Agentic Workflow</b>와 LLM을 활용을 통해 개발 생산성을 끌어올리는 방법을 함께 알아가는 중입니다.<br/>
+  AI 기술로 성장을 가속화하고 싶은 분 언제든지 환영합니다.<br/><br/>
+</p>
 
-### 🛠️ 요즘 개발 중인 것: Projects
-* **simple thumbnail** `refactoring…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
-* **Avocado bot** `운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
-* **Club house** `개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
-* **Didit(가제)** `개발 준비 중`
+<br/>
+<br/>
 
----
+### 🛠️ 요즘 개발 중인 것
+* **simple-thumbnail** `refactoring…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
+* **avocado-bot** `운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
+* **club-house** `개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
+* **didit(가제)** `개발 준비 중`
+
+<br/>
 
 ### 💻 Skills
 
@@ -34,7 +37,7 @@
 | **Test** | Vitest, Jest, TDD, Storybook, Histoire |
 | **Design** | Figma, Adobe Creative Suite, Zeplin |
 
----
+<br/>
 
 ### 🌟 Activities
 
@@ -50,7 +53,7 @@
 * 2023 GUAP 연사: 핵심 목표 달성을 위한 구글 스프린트 기반의 협업 프로세스
 * 2023 TEOConf: 인턴십을 통해 배운 개발자의 마인드셋과 기여
 
----
+<br/>
 
 ### 🏆 Awards
 > 해커톤을 사랑합니다
