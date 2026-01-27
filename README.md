@@ -1,60 +1,124 @@
-### Hi there 👋
-My name is **da-in**, **Front-end developer**.  
-major in **computer science**💻 since 2017 at **Soongsil University** in Seoul, South Korea.
+### Hello, I'm da-in 👋
 
+#### 🚀 사용자 경험(UX)에 몰입하고, 개발 효율에 진심인 프론트엔드 개발자입니다.
 
-### Link
-🌈 [Resume](https://da-in.github.io/resume)  
-📂 [Notion](https://daiin.notion.site/Archive-8961c17789104fe1acc7d368dfc6e7d0?pvs=4)  
-📎 [Blog](https://da-in.github.io)  
+복잡한 기술보다는 사용자의 눈에 보이는 직관적인 가치를 구현하는 순간을 즐깁니다. 반복되는 비효율을 참지 못해 AI 에이전틱 워크플로우나 성능 최적화를 통해 팀의 생산성을 높이는 일에 적극적이며, '어떻게 하면 더 즐겁고 빠르게 제품을 만들 수 있을지'를 늘 고민합니다.
 
-### Study
-✏️ [TDD Study](https://github.com/da-in/tdd-challenge)  
-✏️ [CS Tech Interview](https://github.com/da-in/tech-interview-study)  
-✏️ [React Docs 번역 스터디](https://github.com/roy-jung/react.dev.ko)  
-✏️ [Algorithm](https://github.com/da-in/algorithm-study)  
+<br/>
 
-### Read
-📖 [Test Driven Develop:By Example(Kent Beck)](https://github.com/da-in/tdd-by-example-ts)  
-📖 [JS Deep Dive](https://github.com/likelion-ssu/JS-Deep-Dive)  
+#### 💬 Contact & Links
+- 📧 **Email**: [talown@naver.com](mailto:talown@naver.com)
+- 💼 **LinkedIn**: [최다인 (Da-in Choi)](https://www.linkedin.com/in/다인-최-09baa6311/)
+- 📸 **SNS**: [@dain.py](https://www.instagram.com/dain.py)
 
-### Contact
-Please contact me in the following way.
+<br/>
 
-[![](http://img.shields.io/badge/-github.io-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://da-in.github.io)](https://da-in.github.io)
-[![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/dain.py/")](https://www.instagram.com/dain.py/)
-[![](http://img.shields.io/badge/-E--mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:talown@naver.com)](mailto:talown@naver.com)
+#### 🌊 요즘 가장 몰입 중인 [@Vibe Coding Club](https://github.com/vibe-ai-coding-club)
 
-<!-- [![da-in's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-in)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/232191593?s=200&v=4" width="100" align="left" style="margin-right: 16px;" />
+  <b>AI Agentic Workflow</b>와 LLM을 활용을 통해 개발 생산성을 끌어올리는 방법을 함께 알아가는 중입니다.<br/>
+  AI 기술로 성장을 가속화하고 싶은 분 언제든지 환영합니다.<br/><br/>
+</p>
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=talown)](https://solved.ac/talown) -->
+<br/>
+<br/>
 
-<!--
-**da-in/da-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠️ 요즘 개발 중인 것
+* **simple-thumbnail** `⚠️ refactoring…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
+* **avocado-bot** `🔥 운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
+* **club-house** `👩🏻‍💻 개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
+* **didit(가제)** `🎨 개발 준비 중`
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Skills
 
-<!--
-[![](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dain809@gmail.com)](mailto:dain809@gmail.com)
-[![](http://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005450081761")](https://www.facebook.com/profile.php?id=100005450081761)
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>TypeScript, JavaScript (ES6+), Python</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>Vue.js (2/3), Svelte, React, React Native, Tanstack-query</td>
+    </tr>
+    <tr>
+      <td><strong>Styling</strong></td>
+      <td>Tailwind CSS, UnoCSS, Emotion, Styled Component</td>
+    </tr>
+    <tr>
+      <td><strong>Build & DevOps</strong></td>
+      <td>Vite, Webpack, GitLab CI/CD (LLM API 연동), Node.js</td>
+    </tr>
+    <tr>
+      <td><strong>Test</strong></td>
+      <td>Vitest, Jest, TDD, Storybook, Histoire</td>
+    </tr>
+    <tr>
+      <td><strong>Design</strong></td>
+      <td>Figma, Adobe Creative Suite, Zeplin</td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/react native-61DAFB?style=flat-square&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
- -->
+**📖 Also I read**: _[Test Driven Develop:By Example(Kent Beck)](https://github.com/da-in/tdd-by-example-ts), [JS Deep Dive](https://github.com/likelion-ssu/JS-Deep-Dive)_
+
+<br/>
+
+#### 🏆 Awards
+> 해커톤을 사랑합니다
+
+<table>
+  <tbody>
+    <tr>
+      <td>2024.11</td>
+      <td><strong>우수상</strong></td>
+      <td><strong>관광데이터 활용 공모전</strong> (한국관광공사, 카카오)</td>
+    </tr>
+    <tr>
+      <td>2023.11</td>
+      <td><strong>대상</strong></td>
+      <td><strong>FURIOSA AI Hackathon</strong></td>
+    </tr>
+    <tr>
+      <td>2021.06</td>
+      <td><strong>최우수상</strong></td>
+      <td><strong>정부혁신제안 끝장개발대회</strong> (행정안전부)</td>
+    </tr>
+    <tr>
+      <td>2020.11</td>
+      <td><strong>최우수상</strong></td>
+      <td><strong>인공지능사관학교 1기 우수학생 시상</strong></td>
+    </tr>
+    <tr>
+      <td>2020.11</td>
+      <td><strong>3위(장려)</strong></td>
+      <td><strong>KISA-신한카드 데이터톤</strong></td>
+    </tr>
+    <tr>
+      <td>2020.11</td>
+      <td><strong>불꽃상(우수)</strong></td>
+      <td><strong>예술데이터가 바꾸는 세상 해커톤</strong></td>
+    </tr>
+    <tr>
+      <td>2020.09</td>
+      <td><strong>최우수상</strong></td>
+      <td><strong>끝장개발대회 해커톤</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+#### 🌟 Activities
+
+* **TEO Google Sprint Facilitator**: 린(Lean)한 서비스 기획 및 협업 프로세스 가이드 (2023.10 ~ 2024.12)
+* **Mentoring & Judging**: 9oormthon Univ, KUSITMS 프론트엔드 기술 및 프로덕트 멘토
+* 2025 KUSITMS 전문가 초청 강연: 명시적으로 성장하기 위한 주니어 개발자의 프로젝트 체크리스트
+* 2024 9oormthon Univ 온보딩 세미나: 나쁜 프론트엔드 개발자가 끌리는 이유(프론트엔드 개발자의 역할)
+* 2024 어흥콘: 똑같이 밤 새도 더 눈에 띄는 프로젝트 만들기
+* 2023 KUSITMS 전문가 초청 강연: 안녕하세요, 프론트엔드 개발자입니다. (강연 만족도 4.9/5.0)
+* 2023 GUAP 연사: 핵심 목표 달성을 위한 구글 스프린트 기반의 협업 프로세스
+* 2023 TEOConf: 인턴십을 통해 배운 개발자의 마인드셋과 기여
