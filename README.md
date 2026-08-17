@@ -10,19 +10,17 @@
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/232191593?s=200&v=4" width="100" align="left" style="margin-right: 16px;" />
-  AI Agentic Workflow와 LLM으로 개발 생산성을 올리는 방법을 함께 익히는 커뮤니티를 설립·운영합니다.<br/>
-  주간 스터디와 해커톤을 포함한 정기 프로그램을 돌리고 있습니다. · <a href="https://github.com/vibe-ai-coding-club">GitHub</a><br/><br/>
+  AI로 직접 만들어 보는 사람들의 모임을 설립·운영합니다.<br/>
+  해커톤부터 주간 스터디까지, 누구나 무료로 참여하는 정기 프로그램을 운영하고 있습니다. · <a href="https://vibecodingclub.kr/">vibecodingclub.kr</a> · <a href="https://github.com/vibe-ai-coding-club">GitHub</a><br/><br/>
 </p>
 
 <br/>
 <br/>
 
 ### 🛠️ 요즘 개발 중인 것
-* **vibe-sprint** `🔥 운영 중…` — AI 협업 기반 MVP 스프린트 템플릿 | [Github](https://github.com/da-in/vibe-sprint)
-* **simple-thumbnail** `⚠️ 리팩토링 중…` — 3초 만에 만드는 썸네일 웹 | [Github](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
-* **club-house** `👩🏻‍💻 개발 중…` — Vibe Coding Club 웹사이트 | [Github](https://github.com/vibe-ai-coding-club/club-house)
+* **vibe-sprint** `📄 공개 템플릿` — AI 협업 기반 MVP 스프린트 템플릿 | [Github](https://github.com/da-in/vibe-sprint)
+* **simple-thumbnail** `⚠️ 리팩토링 중…` — 3초 만에 만드는 썸네일 웹 | [사이트](https://simple-thumbnail.com) · [Github](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
 * **avocado-bot** `🔥 운영 중…` — 운동 기록용 아보카도 챗봇 | [Github](https://github.com/da-in/avocado-bot)
-* **didit(가제)** `🎨 개발 준비 중` — 아이디어 검증용 프로토타입
 
 <br/>
 
