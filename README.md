@@ -102,6 +102,8 @@
   <ul>
     <li><strong>TEO Sprint</strong>: 짧은 기간에 문제를 정의하고 결과물을 전달하는 협업 스프린트. 14기는 참가자이자 프로젝트 리더, 이후 기수는 퍼실리테이터로 운영. 최근 기수는 <a href="https://github.com/da-in/vibe-sprint">vibe-sprint</a> 템플릿으로 에이전트와 함께 진행 (2023.02 ~ 2026.07)</li>
     <li><strong>Mentoring</strong>: 9oormthon Univ, KUSITMS 프론트엔드·프로덕트 멘토</li>
+    <li>2026 KUSITMS 33기 전문가 초청 강연: AI 시대의 프론트엔드 생존을 넘어 진화로</li>
+    <li>2026 HE:RETHON(여기톤) 해커톤 심사위원</li>
     <li>2025 KUSITMS 전문가 초청 강연: 명시적으로 성장하기 위한 주니어 개발자의 프로젝트 체크리스트</li>
     <li>2024 9oormthon Univ 온보딩 세미나: 나쁜 프론트엔드 개발자가 끌리는 이유(프론트엔드 개발자의 역할)</li>
     <li>2024 어흥콘: 똑같이 밤 새도 더 눈에 띄는 프로젝트 만들기</li>
