@@ -24,30 +24,30 @@
 
 <br/>
 
-<details>
-  <summary><strong>💻 Skills</strong> (클릭)</summary>
-  <br/>
-  <table>
-    <tbody>
-      <tr>
-        <td><strong>언어 · 프레임워크</strong></td>
-        <td>TypeScript, Svelte, Vue3, React Native</td>
-      </tr>
-      <tr>
-        <td><strong>플랫폼</strong></td>
-        <td>PC, Mobile, Smart TV (webOS / Tizen), IVI</td>
-      </tr>
-      <tr>
-        <td><strong>빌드 · 모노레포</strong></td>
-        <td>Vite, pnpm workspace, GitLab CI</td>
-      </tr>
-      <tr>
-        <td><strong>분석</strong></td>
-        <td>Amplitude, TanStack Query</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+### 💻 Skills
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>언어 · 프레임워크</strong></td>
+      <td>TypeScript, Svelte, Vue3, React Native</td>
+    </tr>
+    <tr>
+      <td><strong>플랫폼</strong></td>
+      <td>PC, Mobile, Smart TV (webOS / Tizen), IVI</td>
+    </tr>
+    <tr>
+      <td><strong>빌드 · 모노레포</strong></td>
+      <td>Vite, pnpm workspace, GitLab CI</td>
+    </tr>
+    <tr>
+      <td><strong>분석</strong></td>
+      <td>Amplitude, TanStack Query</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
 
 <details>
   <summary><strong>🏆 Awards</strong> (클릭)</summary>
