@@ -1,27 +1,28 @@
 ## Hello, I'm da-in 👋
 
-### 🚀 사용자 경험(UX)에 몰입하고, 개발 효율에 진심인 프론트엔드 개발자입니다.
+### 🚀 PC·Mobile·Smart TV 웹을 만드는 프론트엔드입니다. 지금은 데이터로 문제를 찾고 가설을 빠르게 구현합니다.
 
-복잡한 기술로 사용자의 눈에 보이는 직관적인 가치를 구현하는 순간을 즐깁니다. 반복되는 비효율을 참지 못해 AI 에이전틱 워크플로우나 성능 최적화를 통해 팀의 생산성을 높이는 일에 적극적이며, '어떻게 하면 더 즐겁고 빠르게 제품을 만들 수 있을지'를 늘 고민합니다.
+자세한 경력은 [웹 이력서](https://da-in.github.io/resume/)에 정리해 두었습니다.
 
 <br/>
 
-### 🌊 요즘 가장 몰입 중인 [@Vibe Coding Club](https://github.com/vibe-ai-coding-club)
+### 🌊 요즘 가장 몰입 중인 [Vibe Coding Club](https://vibecodingclub.kr/)
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/232191593?s=200&v=4" width="100" align="left" style="margin-right: 16px;" />
-  <b>AI Agentic Workflow</b>와 LLM을 활용을 통해 개발 생산성을 끌어올리는 방법을 함께 알아가는 중입니다.<br/>
-  AI 기술로 성장을 가속화하고 싶은 분 언제든지 환영합니다.<br/><br/>
+  AI Agentic Workflow와 LLM으로 개발 생산성을 올리는 방법을 함께 익히는 커뮤니티를 설립·운영합니다.<br/>
+  주간 스터디와 해커톤을 포함한 정기 프로그램을 돌리고 있습니다. · <a href="https://github.com/vibe-ai-coding-club">GitHub</a><br/><br/>
 </p>
 
 <br/>
 <br/>
 
 ### 🛠️ 요즘 개발 중인 것
-* **simple-thumbnail** `⚠️ 리팩토링 중…` | [Github 바로가기](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
-* **avocado-bot** `🔥 운영 중…` | [Github 바로가기](https://github.com/da-in/avocado-bot)
-* **club-house** `👩🏻‍💻 개발 중…` | [Github 바로가기](https://github.com/vibe-ai-coding-club/club-house)
-* **didit(가제)** `🎨 개발 준비 중`
+* **vibe-sprint** `🔥 운영 중…` — AI 협업 기반 MVP 스프린트 템플릿 | [Github](https://github.com/da-in/vibe-sprint)
+* **simple-thumbnail** `⚠️ 리팩토링 중…` — 3초 만에 만드는 썸네일 웹 | [Github](https://github.com/yangjaecheon-otter-guardians/simple-thumbnail)
+* **club-house** `👩🏻‍💻 개발 중…` — Vibe Coding Club 웹사이트 | [Github](https://github.com/vibe-ai-coding-club/club-house)
+* **avocado-bot** `🔥 운영 중…` — 운동 기록용 아보카도 챗봇 | [Github](https://github.com/da-in/avocado-bot)
+* **didit(가제)** `🎨 개발 준비 중` — 아이디어 검증용 프로토타입
 
 <br/>
 
@@ -31,32 +32,23 @@
   <table>
     <tbody>
       <tr>
-        <td><strong>Languages</strong></td>
-        <td>TypeScript, JavaScript (ES6+), Python</td>
+        <td><strong>언어 · 프레임워크</strong></td>
+        <td>TypeScript, Svelte, Vue3, React Native</td>
       </tr>
       <tr>
-        <td><strong>Frontend</strong></td>
-        <td>Vue.js (2/3), Svelte, React, React Native, Tanstack-query</td>
+        <td><strong>플랫폼</strong></td>
+        <td>PC, Mobile, Smart TV (webOS / Tizen), IVI</td>
       </tr>
       <tr>
-        <td><strong>Styling</strong></td>
-        <td>Tailwind CSS, UnoCSS, Emotion, Styled Component</td>
+        <td><strong>빌드 · 모노레포</strong></td>
+        <td>Vite, pnpm workspace, GitLab CI</td>
       </tr>
       <tr>
-        <td><strong>Build & DevOps</strong></td>
-        <td>Vite, Webpack, GitLab CI/CD (LLM API 연동), Node.js</td>
-      </tr>
-      <tr>
-        <td><strong>Test</strong></td>
-        <td>Vitest, Jest, TDD, Storybook, Histoire</td>
-      </tr>
-      <tr>
-        <td><strong>Design</strong></td>
-        <td>Figma, Adobe Creative Suite, Zeplin</td>
+        <td><strong>분석</strong></td>
+        <td>Amplitude, TanStack Query</td>
       </tr>
     </tbody>
   </table>
-  <p><strong>📖 Also I read</strong>: <em><a href="https://github.com/da-in/tdd-by-example-ts">Test Driven Develop:By Example(Kent Beck)</a>, <a href="https://github.com/likelion-ssu/JS-Deep-Dive">JS Deep Dive</a></em></p>
 </details>
 
 <details>
@@ -108,8 +100,8 @@
   <summary><strong>🌟 Activities</strong> (클릭)</summary>
   <br/>
   <ul>
-    <li><strong>TEO Google Sprint Facilitator</strong>: 린(Lean)한 서비스 기획 및 협업 프로세스 가이드 (2023.10 ~ 2024.12)</li>
-    <li><strong>Mentoring & Judging</strong>: 9oormthon Univ, KUSITMS 프론트엔드 기술 및 프로덕트 멘토</li>
+    <li><strong>TEO Sprint</strong>: 짧은 기간에 문제를 정의하고 결과물을 전달하는 협업 스프린트. 14기는 참가자이자 프로젝트 리더, 이후 기수는 퍼실리테이터로 운영. 최근 기수는 <a href="https://github.com/da-in/vibe-sprint">vibe-sprint</a> 템플릿으로 에이전트와 함께 진행 (2023.02 ~ 2026.07)</li>
+    <li><strong>Mentoring</strong>: 9oormthon Univ, KUSITMS 프론트엔드·프로덕트 멘토</li>
     <li>2025 KUSITMS 전문가 초청 강연: 명시적으로 성장하기 위한 주니어 개발자의 프로젝트 체크리스트</li>
     <li>2024 9oormthon Univ 온보딩 세미나: 나쁜 프론트엔드 개발자가 끌리는 이유(프론트엔드 개발자의 역할)</li>
     <li>2024 어흥콘: 똑같이 밤 새도 더 눈에 띄는 프로젝트 만들기</li>
@@ -122,6 +114,7 @@
 <br/>
 
 ### 💬 Contact & Links
+- 📄 **Resume**: [da-in.github.io/resume](https://da-in.github.io/resume/)
 - 📧 **Email**: [talown@naver.com](mailto:talown@naver.com)
 - 💼 **LinkedIn**: [최다인 (Da-in Choi)](https://www.linkedin.com/in/다인-최-09baa6311/)
 - 📸 **SNS**: [@dain.py](https://www.instagram.com/dain.py)
